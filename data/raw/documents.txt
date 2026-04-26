@@ -1,0 +1,8 @@
+DOCUMENT 1:
+Python is the most popular programming language used for Machine Learning, Web Development and Automation.
+
+DOCUMENT 2:
+Asia is the largest continent in the world because it has the largest area and population.
+
+DOCUMENT 3:
+Mount Everest is Earth's highest mountain above sea level and is located on the international border between Nepal and China.

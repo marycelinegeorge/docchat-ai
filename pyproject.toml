@@ -1,0 +1,14 @@
+[project]
+name = "docchat-ai"
+version = "0.1.0"
+description = "DocChat AI - Fine-tuned LLM for document Q&A and toxic comment detection"
+requires-python = ">=3.11"
+
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]

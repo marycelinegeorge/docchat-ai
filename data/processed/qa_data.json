@@ -1,0 +1,47 @@
+[
+    {
+        "doc": "Python is the most popular programming language used for Machine Learning, Web Development and Automation.",
+        "q": "What is Python?",
+        "a": "Python is a popular programming language used for Machine Learning, Web Development and Automation."
+    },
+    {
+        "doc": "Python is the most popular programming language used for Machine Learning, Web Development and Automation.",
+        "q": "What is Python used for?",
+        "a": "Python is used for Machine Learning, Web Development and Automation purposes."
+    },
+    {
+        "doc": "Python is the most popular programming language used for Machine Learning, Web Development and Automation.",
+        "q": "Who created Python?",
+        "a": "Not mentioned in the document."
+    },
+    {
+        "doc": "Asia is the largest continent in the World because it has the largest area and population.",
+        "q": "Which is the largest continent in the world?",
+        "a": "Asia is the largest continent in the World."
+    },
+    {
+        "doc": "Asia is the largest continent in the world because it has the largest area and population.",
+        "q": "Why is Asia the largest continent?",
+        "a": "Asia is the largest continent in the world because it has the largest area and population."
+    },
+    {
+        "doc": "Asia is the largest continent in the world because it has the largest area and population.",
+        "q": "Is India in Asia?",
+        "a": "Not mentioned in the document."
+    },
+    {
+        "doc": "Mount Everest is Earth's highest mountain above sea level and is located on the international border between Nepal and China.",
+        "q": "What is special about Mount Everest?",
+        "a": "Mount Everest is Earth's highest mountain above sea level and is located on the international border between Nepal and China."
+    },
+    {
+        "doc": "Mount Everest is Earth's highest mountain above sea level and is located on the international border between Nepal and China.",
+        "q": "Where is Mount Everest located?",
+        "a": "Mount Everest is located on the international border between Nepal and China. "
+    },
+    {
+        "doc": "Mount Everest is Earth's highest mountain above sea level and is located on the international border between Nepal and China.",
+        "q": "Is Mount Everest part of India?",
+        "a": "Not mentioned in the document."
+    }
+]
